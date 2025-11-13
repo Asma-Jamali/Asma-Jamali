@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Users/asma/Git_rep/Asma-Jamali/Image/Image.png" alt="Profile Image" width="600"/>
+  <img src="Image/Image.png" width="600"/>
 </p>
 
 ---
